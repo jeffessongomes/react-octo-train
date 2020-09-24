@@ -1,6 +1,6 @@
 <h3 align="center">
 
-Rocketseat - Login é um projeto **Open Source** desenvolvido a fim de melhorar minhas habilidades em ***ReactJS, TypeScript, Styled-Components, NextJS, Theme UI***.
+Rocketseat - Login é um projeto **Open Source** desenvolvido a fim de melhorar minhas habilidades em ***ReactJS, TypeScript, NextJS, Chakra UI***.
 
 </h3>
 
@@ -13,12 +13,8 @@ O projeto tem como propósito fazer uma copia do login da RocketSeat utilizando 
 
 #### **Website** ([React][react] + [TypeScript][typescript])
 
-  - **[Styled-Components][StyledComponents]**
-  - **[Axios][Axios]**
-  - **[Unform][unform]**
-  - **[Yup][yup]**
-  - **[useCallback][hooks]**
-  - **[useContext][hooks]**
+  - **[NextJS][NextJS]**
+  - **[Chakra/UI][chakra]**
 
   \* Veja o arquivo <kbd>[package.json](./sources/website/package.json)</kbd>
 
@@ -73,14 +69,7 @@ Esse repositório está licenciado pela **MIT LICENSE**. Para mais informações
 
 [typescript]: https://www.typescriptlang.org/
 
-[vscode]: https://code.visualstudio.com/
+[NextJS]: https://nextjs.org/
 
-[axios]: https://github.com/axios/axios
 
-[hooks]: https://reactjs.org/docs/hooks-reference.html
-
-[unform]: https://github.com/Rocketseat/unform
-
-[Yup]: https://github.com/jquense/yup
-
-[StyledComponents]: https://styled-components.com/
+[chakra]: https://chakra-ui.com/getting-started
