@@ -10,9 +10,8 @@ Rocketseat - Login é um projeto **Open Source** desenvolvido a fim de melhorar 
 </p>
 
 <h4 align="center">
-  Você pode ver a demonstração da aplicação clicando <kbd>[Aqui](https://react-login-rocket.herokuapp.com/)</kbd>.
+  Você pode ver a demonstração da aplicação clicando <kbd>[aqui](https://react-login-rocket.herokuapp.com/)</kbd>.
 </h4>
-  Você pode ver a demonstração da aplicação clicando <kbd>[Aqui](https://react-login-rocket.herokuapp.com/)</kbd>.
 
 ## **:rocket: OBJETIVO**
 
