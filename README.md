@@ -4,7 +4,13 @@ Rocketseat - Login é um projeto **Open Source** desenvolvido a fim de melhorar 
 
 </h3>
 
-### Você pode ver a demonstração da aplicação clicando <kbd>[Aqui](https://react-login-rocket.herokuapp.com/)</kbd>.
+<div align="center">
+  <img width="300" alt="NextJS-ChakraUI" src="./.github/assets/Nextjs-ChakraUI.png" />
+
+  <h4 align="center">
+    Você pode ver a demonstração da aplicação clicando <kbd>[Aqui](https://react-login-rocket.herokuapp.com/)</kbd>
+  </h4>
+</div>
 
 ## **:rocket: OBJETIVO**
 
