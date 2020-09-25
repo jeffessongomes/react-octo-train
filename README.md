@@ -8,7 +8,7 @@ Rocketseat - Login é um projeto **Open Source** desenvolvido a fim de melhorar 
 
 ## **:rocket: OBJETIVO**
 
-O projeto tem como propósito fazer uma copia do login da RocketSeat utilizando o NextJS e o Theme UI.
+O projeto tem como propósito fazer uma copia do login da RocketSeat utilizando o NextJS e o Chakra UI.
 
 ## **:computer: TECNOLOGIAS**
 
