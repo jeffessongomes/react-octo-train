@@ -9,10 +9,6 @@ Rocketseat - Login é um projeto **Open Source** desenvolvido a fim de melhorar 
   <img alt="Rocketseat" src="./.github/assets/login-rocketseat.png">
 </p>
 
-<h4 align="center">
-  Você pode ver a demonstração da aplicação clicando <kbd>[aqui](https://react-login-rocket.herokuapp.com/)</kbd>.
-</h4>
-
 ## **:rocket: OBJETIVO**
 
 O projeto tem como propósito fazer uma copia do login da RocketSeat utilizando o NextJS e o Chakra UI.
